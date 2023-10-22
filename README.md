@@ -1,9 +1,6 @@
 # BMI-Calculator-App
 This is My BMI Calculator Project
 
-
-
-User input MainActivity
 ![mainscreen](https://github.com/eyaqubali/BMI-Calculator-App/assets/110663925/78d8a952-a1a9-4727-ad5d-ec2961709fdb)
 
 BMI Result Screen
