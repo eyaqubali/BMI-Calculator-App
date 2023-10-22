@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/main_color</item>
+        <item name="colorPrimaryDark">@color/main_color</item>
+    </style>
+
+    <style
+        name="Theme.MyApplication" parent="Base.Theme.MyApplication"
+        />
+
+    <style
+    name="ThemeOverlay.Material3.NavigationRailView." parent="ShapeAppearance.Material3.Corner.Full"
+    />
+
+    <style name="bmi_calcula">
+        <item name="android:textSize">28sp</item>
+        <item name="android:textColor">#0F0C0C</item>
+    </style>
+
+    <style name="UserName">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#0F0C0C</item>
+    </style>
+
+    <style name="Name">
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">#0F0C0C</item>
+    </style>
+
+</resources>

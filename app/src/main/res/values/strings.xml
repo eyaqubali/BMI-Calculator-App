@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="bmi_calcula">BMI Calculator</string>
+    <string name="what_is_you">What is your name?</string>
+    <string name="your_bmi_result">Your BMI Result</string>
+    <string name="_22_70">0.00</string>
+    <string name="weight">Weight</string>
+    <string name="_60">none</string>
+    <string name="height">Height</string>
+    <string name="_5">none</string>
+    <string name="inches">Inches</string>
+    <string name="_4">none</string>
+    <string name="enter_height_inchi">Enter Height (inchi)</string>
+    <string name="inche">Inches</string>
+    <string name="enter_height_fit">Enter Height (Fit)</string>
+    <string name="none">none</string>
+
+    <!--weight text-->
+    <string name="your_bmi_very_severely_underweight">Your BMI Very Severely Underweight</string>
+    <string name="your_bmi_severely_underweight">Your BMI Severely Underweight</string>
+    <string name="your_bmi_underweight">Your BMI Underweight</string>
+    <string name="your_bmi_normal_weight">Your BMI Normal Weight</string>
+    <string name="your_bmi_overweight">Your BMI Overweight</string>
+    <string name="your_bmi_obese_weight">Your BMI Obese Weight</string>
+    <string name="your_bmi_very_high_obese_weight">Your BMI Very High Obese Weight</string>
+    <string name="hi_eyaqub_ali">Hi Eyaqub Ali</string>
+    <string name="male_image_icon">male_image_icon</string>
+    <string name="female_image_icon">female_image_icon</string>
+    <string name="radio_female_button">Female</string>
+    <string name="radio_male_button">Male</string>
+</resources>
